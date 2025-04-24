@@ -21,41 +21,27 @@ This project show cases Linux command-line proficiency by demonstrating file man
 
 <h2>File & Folder Management</h2>
 
-In this Linux virtual machine, directory /home/user/Desktop contains a file called "colors". We'll open the file, and for every line listed in it, we'll create a new folder with that name in the directory /home/user/Documents
 
-(Image) 
+<img width="467" alt="image" src="https://github.com/user-attachments/assets/750f88e2-eed6-4952-8b99-656d560d2e69" />
 
-Step 1: Change into working directory. Step 2: Show the contents of the file "colors" within the "Desktop" directory. Step 3: Create the directories.
-
-
-Let's see how to copy, move, and rename files by going through a few examples. In the directory /home/user/Pictures, we'll take all the hidden files and move them into the directory /home/user/Documents/Hidden
-
-(Image) 
-Step 1: Change into the Pictures directory.
-
-(Image) 
-Step 2: Show the directory contents, including hidden files.
-
-(Image) 
-Step 3: Move the hidden files into the target directory.
+In this Linux virtual machine, directory /home/user/Desktop contains a file called "colors". We'll open the file, and for every line listed in it, we'll create a new folder with that name in the directory /home/user/Documents. First change into working directory. Then show the contents of the file "colors" within the "Desktop" directory. Then create the directories.
 
 
-Some files in the directory /home/user/Music need to be cleaned up. We'll see an example of removing files and directories by removing-:
 
-(Image) 
-Step 1: Navigate to the Music folder.
+<img width="464" alt="image" src="https://github.com/user-attachments/assets/4fa51f31-0832-451c-9ad6-a3ac2aa9eaf5" />
 
-(Image) 
-Step 2: Remove files.
+Let's see how to copy, move, and rename files by going through a few examples. In the directory /home/user/Pictures, we'll take all the hidden files and move them into the directory /home/user/Documents/Hidden. Change into the Pictures directory, next show the directory contents, including hidden files. Last move the hidden files into the target directory.
+
+<img width="463" alt="image" src="https://github.com/user-attachments/assets/810daeed-81f2-4107-96a4-e7ce41204b60" />
+
+<img width="458" alt="image" src="https://github.com/user-attachments/assets/11174350-7310-4992-99c2-dc17579d9f61" />
+
+Some files in the directory /home/user/Music need to be cleaned up. We'll see an example of removing files and directories by removing-. Navigate to the Music folder. Remove files.
 
 
-In the directory /home/user/Downloads of your virtual machine, a number of files exist. We'll find the files that have the word "vacation" in them, and move them to /home/user/Documents
+<img width="460" alt="image" src="https://github.com/user-attachments/assets/dd8dc140-dc87-4f01-af58-8366fc785980" />
 
-(Image) 
-Step 1: Find files.
-
-(Image) 
-Step 2: Move the directories that match into the target directory.
+In the directory /home/user/Downloads of your virtual machine, a number of files exist. We'll find the files that have the word "vacation" in them, and move them to /home/user/Documents. Find files. Move the directories that match into the target directory.
 
 
 
