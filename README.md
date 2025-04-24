@@ -25,15 +25,7 @@ In this Linux virtual machine, directory /home/user/Desktop contains a file call
 
 (Image) 
 
-Step 1: Change into working directory.
-
-(Image) 
-
-Step 2: Show the contents of the file "colors" within the "Desktop" directory.
-
-(Image) 
-
-Step 3: Create the directories.
+Step 1: Change into working directory. Step 2: Show the contents of the file "colors" within the "Desktop" directory. Step 3: Create the directories.
 
 
 Let's see how to copy, move, and rename files by going through a few examples. In the directory /home/user/Pictures, we'll take all the hidden files and move them into the directory /home/user/Documents/Hidden
