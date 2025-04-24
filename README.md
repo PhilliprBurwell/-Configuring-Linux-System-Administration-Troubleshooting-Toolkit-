@@ -2,10 +2,9 @@
 This project show cases Linux command-line proficiency by demonstrating file management, process control, log analysis, and system maintenance tasks. It highlights the ability to troubleshoot and maintain a Linux system effectively.
 
 <h2>Environments and Technologies Used</h2>
-- Google Cloud
+-Google Cloud
 
-
-- Bash
+-Bash
 
 <h2>Operating Systems Used </h2>
 - Linux
