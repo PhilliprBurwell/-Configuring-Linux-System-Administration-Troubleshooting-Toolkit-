@@ -23,24 +23,24 @@ This project show cases Linux command-line proficiency by demonstrating file man
 
 <img width="467" alt="image" src="https://github.com/user-attachments/assets/750f88e2-eed6-4952-8b99-656d560d2e69" />
 
-In this Linux virtual machine, directory /home/user/Desktop contains a file called "colors". We'll open the file, and for every line listed in it, we'll create a new folder with that name in the directory /home/user/Documents. First change into working directory using the cd /home/user/Documents command. Then show the contents of the file "colors" within the "Desktop" directory using cat /home/user/Desktop/colors. Then create the directories using mkdir for the 4 directorieds called red blue green yellow magenta.
+Creating Directories - In this Linux virtual machine, directory /home/user/Desktop contains a file called "colors". We'll open the file, and for every line listed in it, we'll create a new folder with that name in the directory /home/user/Documents. First change into working directory using the cd /home/user/Documents command. Then show the contents of the file "colors" within the "Desktop" directory using cat /home/user/Desktop/colors. Then create the directories using mkdir for the 4 directorieds called red blue green yellow magenta.
 
 
 
 <img width="464" alt="image" src="https://github.com/user-attachments/assets/4fa51f31-0832-451c-9ad6-a3ac2aa9eaf5" />
 
-Let's see how to copy, move, and rename files by going through a few examples. In the directory /home/user/Pictures, we'll take all the hidden files and move them into the directory /home/user/Documents/Hidden. Change into the Pictures directory using cd, next show the directory contents, including hidden files using the ls -a command. Last move the hidden files into the target directory using mv .apple .banana .broccoli .milk /home/user/Documents/Hidden
+Copy, Moving & Renaming Files - Let's see how to copy, move, and rename files by going through a few examples. In the directory /home/user/Pictures, we'll take all the hidden files and move them into the directory /home/user/Documents/Hidden. Change into the Pictures directory using cd, next show the directory contents, including hidden files using the ls -a command. Last move the hidden files into the target directory using mv .apple .banana .broccoli .milk /home/user/Documents/Hidden
 
 <img width="463" alt="image" src="https://github.com/user-attachments/assets/810daeed-81f2-4107-96a4-e7ce41204b60" />
 
 <img width="458" alt="image" src="https://github.com/user-attachments/assets/11174350-7310-4992-99c2-dc17579d9f61" />
 
-Some files in the directory /home/user/Music need to be cleaned up. We'll see an example of removing files and directories by removing-. Navigate to the Music folder. Then remove files.
+Removing Files - Some files in the directory /home/user/Music need to be cleaned up. We'll see an example of removing files and directories by removing-. Navigate to the Music folder. Then remove files.
 
 
 <img width="460" alt="image" src="https://github.com/user-attachments/assets/dd8dc140-dc87-4f01-af58-8366fc785980" />
 
-In the directory /home/user/Downloads of your virtual machine, a number of files exist. We'll find the files that have the word "vacation" in them, and move them to /home/user/Documents. Find files the files using the commands used eariler. Lastly move the directories that match into the target directory.
+Searching In Directories - In the directory /home/user/Downloads of your virtual machine, a number of files exist. We'll find the files that have the word "vacation" in them, and move them to /home/user/Documents. Find files the files using the commands used eariler. Lastly move the directories that match into the target directory.
 
 
 
